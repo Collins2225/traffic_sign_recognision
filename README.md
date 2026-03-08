@@ -7,8 +7,7 @@ A Convolutional Neural Network (CNN) is trained on a dataset of traffic sign ima
 
 
 Objectives
-
-.The main goals of this project are to:
+The main goals of this project are to:
 
 .Develop a deep learning model for traffic sign classification
 
@@ -20,59 +19,6 @@ Objectives
 
 .Demonstrate how computer vision can be applied in autonomous vehicle perception systems
 
-
-Methodology
-
-.The project follows a standard computer vision pipeline:
-
-.Data Collection
-
-.Traffic sign images obtained from a public dataset (e.g., German Traffic Sign Recognition Benchmark).
-
-.Data Preprocessing
-
-.Image resizing
-
-.Normalization
-
-.Data augmentation (optional)
-
-.Train/validation/test split
-
-.Model Development
-
-.Build a Convolutional Neural Network (CNN)
-
-.Train the model on labeled traffic sign images
-
-.Model Evaluation
-
-.Evaluate performance using:
-
-.Accuracy
-
-.Loss curves
-
-.Confusion matrix
-
-.Prediction
-
-.The trained model predicts the class of unseen traffic sign images.
-
-
-Model Output
-
-.The trained CNN model can correctly classify traffic signs such as:
-
-.Stop Sign
-
-.Yield Sign
-
-.Speed Limit Signs
-
-.No Entry
-
-.Warning Signs
 
 
 
