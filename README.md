@@ -74,27 +74,6 @@ Model Output
 
 .Warning Signs
 
-How to Run the Project
-1.Clone the repository
-git clone https://github.com/yourusername/traffic-sign-recognition.git
-
-2.Install required libraries
-pip install tensorflow opencv-python numpy matplotlib scikit-learn
-
-3.Train the model
-python train_model.py
-
-4.Test predictions.
- python predict.py
-
-Results
-The CNN model is able to learn visual patterns in traffic signs and classify them with high accuracy.
-This demonstrates the effectiveness of deep learning for visual perception tasks in intelligent transportation systems.
-
-
-
-
-
 
 
 
