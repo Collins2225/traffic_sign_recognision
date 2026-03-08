@@ -74,19 +74,6 @@ Model Output
 
 .Warning Signs
 
-
-Project Structure
-
-traffic-sign-recognition/
-│
-├── dataset/              # Traffic sign image dataset
-├── preprocessing.py      # Image preprocessing scripts
-├── train_model.py        # CNN training script
-├── evaluate_model.py     # Model evaluation
-├── predict.py            # Predict traffic signs from new images
-├── model/                # Saved trained model
-└── README.md
-
 How to Run the Project
 1.Clone the repository
 git clone https://github.com/yourusername/traffic-sign-recognition.git
